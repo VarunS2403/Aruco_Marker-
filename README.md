@@ -6,7 +6,7 @@ commands to guide the target to the center of the frame.
 
 ---
 
-## Vedio
+## Video
 
 https://youtu.be/oCIxBoj0Yeg
 
