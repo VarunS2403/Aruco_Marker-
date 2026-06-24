@@ -22,9 +22,11 @@ https://youtu.be/oCIxBoj0Yeg
 ## Installation
 
 1. Install dependencies:
+   
    pip install opencv-contrib-python numpy
 
 2. Run the tracker:
+   
    python main.py
 
 ---
