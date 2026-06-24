@@ -15,11 +15,15 @@ commands to guide the target to the center of the frame.
 
 - Python 
 - numpy
+- OPENCV
 
 ---
-
 ## Installation
 
-1. Clone or download this repository
+1. Install dependencies:
+   pip install opencv-contrib-python numpy
 
-2. Install dependencies:
+2. Run the tracker:
+   python main.py
+
+---
