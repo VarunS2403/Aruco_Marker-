@@ -1,2 +1,25 @@
-# Aruco_Marker-
-Real-time autonomous spatial tracking system that detects ArUco markers via webcam, computes 8-direction error vectors, and displays live guidance commands (MOVE LEFT, MOVE RIGHT, MOVE UP, MOVE DOWN, diagonals) with LOCK ENGAGED lock-on when the target is centered — built with Python.
+# ArUco Spatial Tracker
+
+A real-time autonomous spatial tracking and guidance system built with Python and OpenCV.
+The system detects an ArUco marker through a standard webcam and provides live directional
+commands to guide the target to the center of the frame.
+
+---
+
+## Demo
+[Add your screen recording link here after uploading to YouTube]
+
+---
+
+## Dependencies
+
+- Python 
+- numpy
+
+---
+
+## Installation
+
+1. Clone or download this repository
+
+2. Install dependencies:
